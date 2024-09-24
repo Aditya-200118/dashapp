@@ -1,0 +1,2 @@
+dash~=2.5.1
+tensorflow~=2.9.0
